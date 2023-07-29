@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AvastToNordVpn", "AvastToNordVpn\AvastToNordVpn.csproj", "{B7B02C7D-A27D-4D30-880B-9AE8ACEDC556}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7B02C7D-A27D-4D30-880B-9AE8ACEDC556}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7B02C7D-A27D-4D30-880B-9AE8ACEDC556}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7B02C7D-A27D-4D30-880B-9AE8ACEDC556}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7B02C7D-A27D-4D30-880B-9AE8ACEDC556}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71B2DB92-38FF-48BE-B046-B64E3580C56B}
+	EndGlobalSection
+EndGlobal
